@@ -25,4 +25,6 @@ Now you may wonder how a mechanical engineer knows some of the ins and outs of w
 
 codecademy's goal is to give anybody in the world the ability to learn modern technical skills and reach their full potential through code. They have courses and career path curriculum in all the languages and subjects you would ever need. If you’re interested in learning how to code or develop new skills click my referral link below!
 
+p.s. you get a free month of codecademy pro!
+
 http://ssqt.co/mQkvkbZ
