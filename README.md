@@ -1,4 +1,5 @@
-### Hi there 👋, I am Samuel Gates!
+### Hi there 👋, I am Samuel Gates! 
+https://sam-gates.github.io/samgates/
 
 ---
 
